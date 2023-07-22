@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Tristan Sze 👋
+
+Currently I am wrapping up Harvard's introductory programming class cs50! It was a goal of mine to complete this course this summer and I am excited to say I am nearly there! This fall I will begin my first semester as a student at Purdue University where I will be learning programming fundamentals in Java. I cannot wait to share my future projects here!
 
 <!--
 **GkyMSze/GkyMSze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
