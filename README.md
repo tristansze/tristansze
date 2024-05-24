@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a sophomore majoring in computer science and economics. I am currently working on two projects for this summer. The first is a site that makes it easy for user's to create study groups with one another and utilize a shared chatbot powered by OpenAI for their learning convenience. Additionally, I am working on a fantasy sports app for the English Premier League. I am currently learning a lot about MongoDB, Nodejs, PostgreSQL, Springboot, and more! Feel free to ask me about anything, I am always open to learning new things and taking on new challenges.
+Hello, I am a sophomore at Purdue University majoring in computer science and economics. I am currently working on two projects for this summer. The first is a site that makes it easy for user's to create study groups with one another and utilize a shared chatbot powered by OpenAI for their learning convenience. Additionally, I am working on a fantasy sports app for the English Premier League. I am currently learning a lot about MongoDB, Nodejs, PostgreSQL, Springboot, and more! Feel free to ask me about anything, I am always open to learning new things and taking on new challenges.
 
 
 ## 🌐 Socials:
