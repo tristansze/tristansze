@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a sophomore at Purdue University majoring in computer science and economics. I am currently working on two projects for this summer. The first is a site that makes it easy for user's to create study groups with one another and utilize a shared chatbot powered by OpenAI for their learning convenience. Additionally, I am working on a fantasy sports app for the English Premier League. I am currently learning a lot about MongoDB, Nodejs, PostgreSQL, Springboot, and more! Feel free to ask me about anything, I am always open to learning new things and taking on new challenges.
+Hello, I am a sophomore at Purdue University majoring in computer science and economics. I am passionate about using technology to create innovative solutions that exceed expectations and satisfy business clientel. With expertise working in various settings and using different frameworks I am highly adaptable and open to learn. Recently, I completed Bumper: a new way for students to study and PremierPlay: a fantasy sports app for the English Premier League. I'm always on the search for new opportunities, so please feel free to reach out to me, I'd love to talk.
 
 
 ## 🌐 Socials:
