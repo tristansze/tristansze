@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior at Purdue University studying Computer Science and Economics. I am passionate about the intersection between technology and finance, but I am most inspired by my desire to use my skills to help others. I have a diverse set of experiences that span across software engineering, machine learning, and computer vision. I am always on the search for new opportunities to learn and grow as both a developer and professional. I am looking for internships or full-time roles at companies that I can dedicate myself too -- working extremely hard and collaboratively to have an impact on millions.
+I am a junior at Purdue University studying Computer Science and Economics. I am passionate about the intersection between technology and finance, but I am most inspired by my desire to use my skills to help others. I have a diverse set of experiences that span across software engineering, machine learning, and computer vision. I am always on the search for new opportunities to learn and grow as both a developer and professional.
 
 
 ## 🌐 Socials:
